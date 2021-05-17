@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Metronome</string>
+    <string-array name="choice">
+        <item>High Woodblock</item>
+        <item>Low Woodblock</item>
+        <item>High Bongo</item>
+        <item>Low Bongo</item>
+        <item>Claves</item>
+        <item>Drumsticks</item>
+    </string-array>
+</resources>
